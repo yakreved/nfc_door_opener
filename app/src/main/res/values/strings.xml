@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">nfc_door_opener</string>
+    <string name="servicedesc">NFC Emulation</string>
+</resources>
